@@ -1,0 +1,3 @@
+docker login -u mathaniis
+
+dckr_pat_MWcEXrXW_LtSchDTv5tlDGAIku0
